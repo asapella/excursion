@@ -1,0 +1,14 @@
+h1{
+  font-style: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+.download{
+  font-style: Verdana;
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: underline;
+}
